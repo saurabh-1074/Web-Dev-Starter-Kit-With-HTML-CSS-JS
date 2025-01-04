@@ -25,9 +25,8 @@ Perfect for those who want to dive into the world of front-end development! 💡
 
 🌍 Happy Coding! 🚀
 
-🌐 **Demo Links**:
 
-**Piano Application** : https://stunning-truffle-f4fe59.netlify.app/
+
 
 
 🔗 **Connect with Me**:
