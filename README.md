@@ -7,7 +7,7 @@ Perfect for those who want to dive into the world of front-end development! 💡
 🔥 **Features**:  
  
 **Pure HTML, CSS, and JS**: Built from scratch with the core web technologies. 🎨💻  
-    
+     
 **Beginner-Friendly**: Simple and easy-to-follow projects to kickstart your web development journey. 🛠️   
   
 **Interactive**: Hands-on projects that bring HTML, CSS, and JS to life! 🚀  
