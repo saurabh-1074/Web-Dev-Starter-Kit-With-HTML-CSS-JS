@@ -12,7 +12,7 @@ Perfect for those who want to dive into the world of front-end development! 💡
   
 **Interactive**: Hands-on projects that bring HTML, CSS, and JS to life! 🚀  
 
-**No Frameworks**: Just raw code with no dependencies. Perfect for learning the fundamentals. 📝  
+**No Frameworks**: Just raw code with no dependencies. Perfect for learning the fundamentals. 📝   
  
 🛠️ **Technologies Used**: 
  
