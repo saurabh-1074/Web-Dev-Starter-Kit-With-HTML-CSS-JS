@@ -18,7 +18,7 @@ Perfect for those who want to dive into the world of front-end development! 💡
 🛠️ **Technologies Used**:  
  
 **HTML** 📝: The backbone of every web page. 
-
+ 
 **CSS** 🎨: Making the web beautiful with styling.
 
 **JavaScript** 💻: Adding interactivity and functionality to web pages.
