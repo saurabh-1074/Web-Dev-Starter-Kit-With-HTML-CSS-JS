@@ -11,7 +11,7 @@ Perfect for those who want to dive into the world of front-end development! 💡
                  
 **Beginner-Friendly**: Simple and easy-to-follow projects to kickstart your web development journey. 🛠️                 
                
-**Interactive**: Hands-on projects that bring HTML, CSS, and JS to life! 🚀          
+**Interactive**: Hands-on projects that bring HTML, CSS, and JS to life! 🚀           
         
 **No Frameworks**: Just raw code with no dependencies. Perfect for learning the fundamentals. 📝     
   
