@@ -19,7 +19,7 @@ Perfect for those who want to dive into the world of front-end development! 💡
  
 **HTML** 📝: The backbone of every web page. 
  
-**CSS** 🎨: Making the web beautiful with styling.
+**CSS** 🎨: Making the web beautiful with styling. 
 
 **JavaScript** 💻: Adding interactivity and functionality to web pages.
 
