@@ -15,7 +15,7 @@ Perfect for those who want to dive into the world of front-end development! 💡
          
 **No Frameworks**: Just raw code with no dependencies. Perfect for learning the fundamentals. 📝     
   
-🛠️ **Technologies Used**:    
+🛠️ **Technologies Used**:     
    
 **HTML** 📝: The backbone of every web page. 
  
